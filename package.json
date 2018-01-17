@@ -31,7 +31,7 @@
   "devDependencies": {
     "coffee-script": "~1.12.2",
     "coffee-errors": "~0.8.6",
-    "sinon": "^4.0.1",
+    "sinon": "4.1.5",
     "sinon-chai": "^2.8.0",
     "mocha": "^4.0.1",
     "chai": "^4.1.2"
